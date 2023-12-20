@@ -1,0 +1,2 @@
+# -_-
+Java internship task
